@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400&family=Noto+Sans+JP:wght@300&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* scrollber */
+html::-webkit-scrollbar{
+  width: 10px;
+}
+
+html::-webkit-scrollbar-track{
+  background-color: #000000;
+}
+
+html::-webkit-scrollbar-thumb{
+  background-color: #fdfdfd50;
+  border-radius: 100px;
+}
