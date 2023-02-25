@@ -2,7 +2,7 @@
 // Power by thinking-group®
 // 2023~0000
 // https://thinking-grp.github.io/
-// https://thinking-grp.github.io/thinker.AI/
+// https://thinking-grp.github.io/thinkerAI-site/
 
 document.querySelector('#head').innerHTML = `
   <header>

@@ -51,4 +51,5 @@ header img {
 .header-menu ul li {
   list-style:none;
   margin: 10px;
+  margin-left: 20px;
 }
