@@ -2,7 +2,23 @@ header {
   height: 115px;
   width: 100%;
   position: absolute;
-  z-index: 2;
+  position: fixed;
+  top: 0;
+  transition: 0.3s;
+}
+
+header.sscroll {
+  height: 115px;
+  width: 100%;
+  background-color: #ffffff9f;
+  position: absolute;
+  z-index: 3;
+  height: 115px;
+  width: 100%;
+  position: absolute;
+  position: fixed;
+  top: 0;
+  transition: 0.3s;
 }
 
 header img {
