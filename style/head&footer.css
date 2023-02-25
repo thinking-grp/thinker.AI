@@ -22,6 +22,12 @@ header img {
   font-family: 'Barlow', 'Noto Sans JP', sans-serif;
 }
 
+.header-menu ul li a:hover {
+  background: -webkit-linear-gradient(0deg, #333333 0%, #6e9cff 90%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 .header-menu ul {
   display: flex;
 }
