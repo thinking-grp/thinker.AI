@@ -71,7 +71,7 @@ body {
 }
 .block-two {
   background-image: url(/image/a.png);
-  margin-top: 100px;
+  margin-top: 80px;
   z-index: 2;
 }
 .block-three {
