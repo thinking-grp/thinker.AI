@@ -32,16 +32,15 @@ body {
 }
 
 .block-two {
-  background-image: url(https://thinking-grp.github.io/thinkerAI-site/image/a.png);
+  background-color: #000;
   margin-top: 200px;
   z-index: 2;
 }
 
 .block-three {
-  color: #fff;
+  background-color: #000;
   z-index: 3;
 }
-
 .block-three.topthree0 {
   z-index: 0;
 }

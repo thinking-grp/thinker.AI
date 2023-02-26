@@ -1,39 +1,37 @@
 header {
-  height: 115px;
+  height: 80px;
   width: 100%;
   position: absolute;
   position: fixed;
   top: 0;
+  z-index: 20;
   transition: 0.3s;
 }
 
 header.sscroll {
-  height: 115px;
+  height: 80px;
   width: 100%;
   background-color: #ffffff9f;
   position: absolute;
   z-index: 20;
-  height: 115px;
-  width: 100%;
-  position: absolute;
   position: fixed;
   top: 0;
   transition: 0.3s;
 }
 
 header img {
-  width: 350px;
+  width: 250px;
   position: absolute;
 }
 
 .header-menu {
   float: right;
-  padding: 25px;
+  padding: 10px;
 }
 
 .header-menu ul li a {
   text-decoration: none;
-  font-size: 1.7em;
+  font-size: 1.5em;
   color: black;
   font-family: 'Barlow', 'Noto Sans JP', sans-serif;
 }
