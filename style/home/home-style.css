@@ -29,14 +29,13 @@ body {
   padding-right: 10px;
   background-color: #05ffea;
   transition: 0.3s;
+  color: #000;
 }
 
 
 .AI-about-style a:hover { 
-  color: white;
-  background: -webkit-linear-gradient(0deg, #05ffea 37%, #ff8661 , #d400ff 69%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: #fff;
+  background-color: #000;
 }
 
 /* 要素固定 */
