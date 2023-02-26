@@ -15,13 +15,10 @@ document.querySelector('#head').innerHTML = `
           <a href="https://www.earthtk.tk">About</a>
         </li>
         <li>
-          <a href="https://www.earthtk.tk">Menber</a>
+          <a href="/menber.html">Menber</a>
         </li>
-        <li>
-          <a href="https://www.earthtk.tk">Download</a>
-        </li>
-        <li>
-          <a href="https://www.earthtk.tk">thinkerAIedit</a>
+        <li class="head-end">
+          <a href="/download.html">Download</a>
         </li>
       </ul>
     </div>

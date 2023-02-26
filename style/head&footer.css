@@ -53,3 +53,7 @@ header img {
   margin: 10px;
   margin-left: 20px;
 }
+
+.header-menu ul .head-end {
+  margin-right: 70px;
+}
