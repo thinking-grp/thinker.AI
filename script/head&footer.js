@@ -12,7 +12,7 @@ document.querySelector('#head').innerHTML = `
     <div class="header-menu">
       <ul>
         <li>
-          <a href="https://www.earthtk.tk">About</a>
+          <a href="/Ai-about.html">About</a>
         </li>
         <li>
           <a href="/menber.html">Menber</a>
