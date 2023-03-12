@@ -6,7 +6,7 @@
 
 document.querySelector('#head').innerHTML = `
   <header>
-    <a href="/index.html">
+    <a href="/thinkerAI-site/index.html">
       <img src="image/thinkerai.png">
     </a>
     <div class="header-menu">
