@@ -12,13 +12,13 @@ document.querySelector('#head').innerHTML = `
     <div class="header-menu">
       <ul>
         <li>
-          <a href="/Ai-about.html">About</a>
+          <a href="/thinkerAI-site/Ai-about.html">About</a>
         </li>
         <li>
-          <a href="/menber.html">Menber</a>
+          <a href="/thinkerAI-site/menber.html">Menber</a>
         </li>
         <li class="head-end">
-          <a href="/download.html">Download</a>
+          <a href="/thinkerAI-site/download.html">Download</a>
         </li>
       </ul>
     </div>
