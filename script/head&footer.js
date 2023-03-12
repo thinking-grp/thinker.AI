@@ -12,7 +12,7 @@ document.querySelector('#head').innerHTML = `
     <div class="header-menu">
       <ul>
         <li>
-          <a href="/thinkerAI-site/Ai-about.html">About</a>
+          <a href="/thinkerAI-site/AI-about.html">About</a>
         </li>
         <li>
           <a href="/thinkerAI-site/menber.html">Menber</a>
